@@ -1,29 +1,4 @@
-/**
- * ✨ EDIT THIS FILE to customize the birthday greeting! ✨
- *
- * This is the ONLY file you need to modify.
- * No need to touch HTML, CSS, or any other JavaScript files.
- *
- * AVAILABLE SECTION TYPES:
- *   "greeting"      → Opening greeting with recipient's name
- *   "announcement"  → Birthday announcement text
- *   "chatbox"       → Chat message with typing animation
- *   "ideas"         → Sequential text reveals, one by one
- *   "quote"         → Styled quote card with optional author
- *   "countdown"     → Animated 3-2-1 countdown
- *   "stars"         → Twinkling stars background
- *   "fireworks"     → Colorful firework sparks burst
- *   "balloons"      → Floating balloon animation
- *   "profile"       → Profile photo with birthday wish
- *   "confetti"      → Confetti burst animation
- *   "closing"       → Closing message with replay button
- *
- * HOW TO USE:
- *   REMOVE a section  → Delete its object from the sections array
- *   DUPLICATE          → Copy-paste any section object
- *   REORDER            → Move the section object up/down in the array
- *   EDIT TEXT          → Change the string values
- */
+
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
