@@ -48,7 +48,7 @@ const CONFIG = {
 
   // ── Default Color Mode ────────────────────────────────────────
   // Options: "dark" or "light"
-  defaultMode: "dark",
+  defaultMode: "light",
 
   // ── Sections ──────────────────────────────────────────────────
   // Add, remove, duplicate, or reorder as you wish!
